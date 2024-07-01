@@ -2,11 +2,11 @@ import argparse
 
 # Diccionario de gestor de contraseñas
 gestor_contraseñas = {
-    "Outlook": ["alejandrorubiofranco@hotmail.com", "12345678"],
-    "Facebook": ["Alejandro Rubio", "87654321"],
-    "Twitter": ["AlejandroRubio", "87654321"],
-    "Github": ["Alex-RubioDev", "45677898765"],
-    "Linkedin": ["Alejandrorubiofranco@hotmail.com", "123456789"]
+    "Outlook": ["usuario", "contraseña"],
+    "Facebook": ["usuario", "contraseña"],
+    "Twitter": ["usuario", "contraseña"],
+    "Github": ["usuario", "contraseña"],
+    "Linkedin": ["usuario", "contraseña"]
 }
 
 # Funciones del gestor de contraseñas
